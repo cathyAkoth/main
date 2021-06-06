@@ -1,2 +1,2 @@
 # main
-https://www.code-inspector.com/project/23445/score/svg
+![code quality](https://www.code-inspector.com/project/23445/score/svg)
